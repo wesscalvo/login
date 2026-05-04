@@ -1,3 +1,4 @@
 62C51E00 (permanente) (West NoSkill)
 FFFFFFFF9E45CF36 (permanente) (Tigrin)
-FFFFFFFFCAE17C73 (permanente) (wess)
+FFFFFFFFCAE17C73 (permanente) (hariel)
+CAE17C73 (permanente) (wess)
